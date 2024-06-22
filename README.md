@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @kaiquexsouza
+- 👀 I’m interested in a internship in the software engineering area
+- 🌱 I’m currently learning C lang and something about JavaScript and Cybersecurity
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me: you can send me a email on 'kaique.alsouza@gmail.com'
+- ⚡ Fun fact: My dog's name's Becker
